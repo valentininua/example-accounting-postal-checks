@@ -1,0 +1,6 @@
+{
+  nameSender: 'ФИО отправителя',
+  NameRecipient: 'ФИО получателя',
+  DeliveryAddress: 'Адрес доставки',
+  NameContentsPoisoning: 'наименование содержимого отравления'
+}
